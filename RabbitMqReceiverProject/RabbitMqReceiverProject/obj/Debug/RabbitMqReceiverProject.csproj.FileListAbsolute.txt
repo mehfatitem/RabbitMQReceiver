@@ -1,0 +1,14 @@
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\bin\Debug\RabbitMqReceiverProject.exe.config
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\bin\Debug\RabbitMqReceiverProject.exe
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\bin\Debug\RabbitMqReceiverProject.pdb
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\bin\Debug\RabbitMQ.Client.dll
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\bin\Debug\RabbitMQ.Client.xml
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\obj\Debug\RabbitMqReceiverProject.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\obj\Debug\RabbitMqReceiverProject.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\obj\Debug\RabbitMqReceiverProject.exe
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\obj\Debug\RabbitMqReceiverProject.pdb
+C:\Users\MONSTER\source\repos\RabbitMqReceiverProject\RabbitMqReceiverProject\obj\Debug\RabbitMqReceiverProject.csprojAssemblyReference.cache
